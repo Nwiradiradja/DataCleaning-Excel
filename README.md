@@ -8,3 +8,6 @@
 * Remove formatting, change text case and trim using excel's built in features
 * Split text to columns
 * Find and replace
+
+## Tools used
+* Microsoft Office 365
