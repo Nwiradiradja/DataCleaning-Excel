@@ -10,3 +10,9 @@
 
 ## Tools used
 * Microsoft Office 365
+
+## Before and After
+Before:
+![](https://github.com/Nwiradiradja/DataCleaning-Excel/blob/main/Before.png?raw=true)
+After:
+![](https://github.com/Nwiradiradja/DataCleaning-Excel/blob/main/After.png?raw=true)
