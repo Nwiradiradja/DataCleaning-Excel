@@ -17,8 +17,7 @@ Image 1:
 Image 2:
 ![](https://github.com/Nwiradiradja/DataCleaning-Excel/blob/main/Blanks_Duplicates_Outliers/Blanks2.png?raw=true)
 
-Remove Duplicates Logo:
-![](https://github.com/Nwiradiradja/DataCleaning-Excel/blob/main/Blanks_Duplicates_Outliers/RemoveDuplicate.png?raw=true)
+Remove Duplicates Logo: ![](https://github.com/Nwiradiradja/DataCleaning-Excel/blob/main/Blanks_Duplicates_Outliers/RemoveDuplicate.png?raw=true)
 
 Image 3:
 ![](https://github.com/Nwiradiradja/DataCleaning-Excel/blob/main/Blanks_Duplicates_Outliers/Duplicate1.png?raw=true)
