@@ -36,3 +36,6 @@ Image 6:
 Image 7:
 ![](https://github.com/Nwiradiradja/DataCleaning-Excel/blob/main/Blanks_Duplicates_Outliers/Out3.png?raw=true)
 
+Image 8:
+![](https://github.com/Nwiradiradja/DataCleaning-Excel/blob/main/Blanks_Duplicates_Outliers/Out4.png?raw=true)
+
